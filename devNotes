@@ -8,6 +8,12 @@ introduced directives ng-init, ng-app, ng-model
 angular js web page 
 and bootstrap ui web page..for css styling
 like the alert ...
+git add devNotes
+git status
+git commit -m "first commit"
+git push origin master
+required username:
+and password:
 ***07/13
 
 
