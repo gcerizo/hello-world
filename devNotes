@@ -1,0 +1,13 @@
+created git hello-world repository on github
+then git clone with URL copy: equivalent to git init etc
+git clone is not safe should use some kind of ssh protocol
+
+also reviewed marc wan chapter1.3-1.4
+angularjs is declarative web develop framework
+introduced directives ng-init, ng-app, ng-model
+angular js web page 
+and bootstrap ui web page..for css styling
+like the alert ...
+***07/13
+
+
